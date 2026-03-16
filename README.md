@@ -20,4 +20,4 @@
 
 ### 📫 Как меня найти:
 [![Telegram](https://img.shields.io)](https://t.me/yo1ermak)
-[![Email](https://img.shields.io)](danya.ermak.08@gmail.com)
+[![Email](https://img.shields.io)](mailto:danya.ermak.08@gmail.com)
