@@ -19,5 +19,6 @@
 ---
 
 ### 📫 Как меня найти:
-[![Telegram](https://img.shields.io)](https://t.me/yo1ermak)
-[![Email](https://img.shields.io)](mailto:danya.ermak.08@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-chat-blue?logo=telegram)](https://t.me/yoermak)
+[![Gmail](https://img.shields.io/badge/Gmail-me-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=danya.ermak.08@gmail.com)
+
