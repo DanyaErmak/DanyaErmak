@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Мой стек:
-* **Языки:** Python, C++
+* **Языки:** Python
 * **Инструменты:** Git, VS Code
 
 ---
@@ -19,6 +19,6 @@
 ---
 
 ### 📫 Как меня найти:
-[![Telegram](https://img.shields.io/badge/Telegram-chat-blue?logo=telegram)](https://t.me/yo1ermak)
+[![Telegram](https://img.shields.io/badge/VK-profile-blue?logo=VK)](https://github.com/DanyaErmak)
 [![Gmail](https://img.shields.io/badge/Gmail-me-red?logo=gmail&logoColor=white)](mailto:danya.ermak.08@gmail.com)
 
