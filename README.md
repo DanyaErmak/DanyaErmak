@@ -19,6 +19,6 @@
 ---
 
 ### 📫 Как меня найти:
-[![Telegram](https://img.shields.io/badge/VK-profile-blue?logo=VK)](https://vk.ru/id428888914)
+[![VK](https://img.shields.io/badge/VK-profile-blue?logo=VK)](https://vk.ru/id428888914)
 [![Gmail](https://img.shields.io/badge/Gmail-me-red?logo=gmail&logoColor=white)](mailto:danya.ermak.08@gmail.com)
 
